@@ -6,3 +6,6 @@
 Why choosing jupiter notebook: to display data and plots more efficient compared to one large .py file
 * main.ipynb (python): dataframe and models based on nutrients xlsx file, supported by different preprocessing techniques and plots
 * Machine Learning Research.pdf: full research including data analysis and hypothesis made after dervied from the model and results calculated by the functions in main.py
+
+
+[Machine Learning Research (1).pdf](https://github.com/Andylenguyen237/ML-Supervised-Research/files/12820703/Machine.Learning.Research.1.pdf)
